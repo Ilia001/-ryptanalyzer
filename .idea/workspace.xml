@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05b7bd31-238f-43cf-a8b7-4ee1fd78f4e7" name="Changes" comment=".idea/ ignored">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/constants/CryptoAlphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/controllers/Checker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/controllers/DataInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/controllers/Requests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/service/Encoder.java" afterDir="false" />
+    <list default="true" id="05b7bd31-238f-43cf-a8b7-4ee1fd78f4e7" name="Changes" comment="Version 05.03.2023">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/constants/Probability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/constants/CryptoAlphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/constants/CryptoAlphabet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/controllers/Requests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/controllers/Requests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/service/Encoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/cryptanalyzer/ivanchin/service/Encoder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,12 +58,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "D:/JAVA/aot-compiler-main/aot-compiler-main/gradle/wrapper/gradle-wrapper.jar",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "shared-indexes"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\Project1.Cryptanalyzer\Cryptanalyzer\src\main\resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.cryptanalyzer.ivanchin.Main" />
@@ -108,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678011829944</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Version 05.03.2023">
+      <created>1678039391592</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678039391592</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,7 +136,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialization" />
     <MESSAGE value=".idea/ ignored" />
-    <option name="LAST_COMMIT_MESSAGE" value=".idea/ ignored" />
+    <MESSAGE value="Version 05.03.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 05.03.2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
